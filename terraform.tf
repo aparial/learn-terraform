@@ -1,5 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
+# Switiching to github.io instead of enterprise to enable OAuth app
 
 terraform {
 
